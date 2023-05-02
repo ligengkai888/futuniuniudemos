@@ -1,4 +1,5 @@
-﻿from futu import *
+#港股 美股 富途牛牛api 国内股票 期货量化代写，vx 1985159637，备注：量化需求，其他不通过
+from futu import *
 import talib as ta
 import time
 import numpy as np
