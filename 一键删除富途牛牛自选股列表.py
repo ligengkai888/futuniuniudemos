@@ -1,3 +1,4 @@
+#港股 美股 富途牛牛api 国内股票 期货量化代写，vx 1985159637，备注：量化需求，其他不通过
 from futu import *
 quote_ctx = OpenQuoteContext(host='127.0.0.1', port=11111)
 data = quote_ctx.get_user_security("SELL")[1]
